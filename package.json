@@ -1,0 +1,12 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "chasungje77",
+  "description": "Typechain",
+"scripts": {
+  "start": "node index.js",
+"prestart": "tsc"
+}
+}
